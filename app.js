@@ -38,6 +38,7 @@ const restaurants = [
         "restaurant_open_time": 2,
         "restaurant_close_time": 14
     },
+    
     {
         "image": "third",
         "name": "The Hungry Fork",

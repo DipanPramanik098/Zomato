@@ -1,5 +1,6 @@
 const restaurant = [];
 const images = ["First","second","third","fourth","fifth","sixth","seventh",'Eigth',"nine","tenth"]
+
 const rest_name = ["The Gourmet Haven",
   "Spice Symphony",
   "Urban Bites",
